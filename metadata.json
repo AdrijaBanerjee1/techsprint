@@ -1,0 +1,8 @@
+
+{
+  "name": "SpendWise AI",
+  "description": "Smart expense tracker with AI bill scanning and analytics using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
